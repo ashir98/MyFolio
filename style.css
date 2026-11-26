@@ -2,7 +2,7 @@
 VOICE   calm, precise, quietly confident — a developer who ships.
 IDEA    soft-touch hardware: every surface is moulded from one material, like a phone body.
 PICTURE a neumorphic phone in the hero showing the two live apps.
-COLOUR / TYPE  one soft grey-blue material, ink near-black, a single blue accent · Manrope.
+COLOUR / TYPE  one soft grey-red material, ink near-black, a single red accent · Manrope.
 LAYOUT  floating pill nav, hero split text/phone, stacked bands of raised cards.
 */
 :root{
@@ -12,7 +12,7 @@ LAYOUT  floating pill nav, hero split text/phone, stacked bands of raised cards.
   --muted:light-dark(#5b6676,#9aa5b5);
   --hi:light-dark(#ffffff,#29303b);
   --lo:light-dark(#b9c3d1,#12161c);
-  --accent:#2563eb;
+  --accent:red;
   --accent-2:light-dark(#1d4fd1,#5b8cff);
   --r:22px;
 }
